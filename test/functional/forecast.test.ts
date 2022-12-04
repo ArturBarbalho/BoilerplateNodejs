@@ -20,7 +20,7 @@ describe('Beach forecast fuctional tests',()=>{
               "waveHeight": 0.47,
               "windDirection": 299.45
             }]
-          }, {
+          }, { 
             "time": "2020-04-26T01:00:00+00:00",
             "forecast": [{
               "lat": -33.792726,
